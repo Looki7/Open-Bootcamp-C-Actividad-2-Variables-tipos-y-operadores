@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Actividad 2 Variables, tipos y operadores/1.0.0": {
+        "runtime": {
+          "Actividad 2 Variables, tipos y operadores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Actividad 2 Variables, tipos y operadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

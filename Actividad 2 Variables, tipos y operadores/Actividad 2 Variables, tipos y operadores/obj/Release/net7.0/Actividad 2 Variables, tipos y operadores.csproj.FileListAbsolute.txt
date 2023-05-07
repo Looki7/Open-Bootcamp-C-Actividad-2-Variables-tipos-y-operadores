@@ -1,0 +1,5 @@
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 2 Variables, tipos y operadores/Actividad 2 Variables, tipos y operadores/obj/Release/net7.0/Actividad 2 Variables, tipos y operadores.csproj.AssemblyReference.cache
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 2 Variables, tipos y operadores/Actividad 2 Variables, tipos y operadores/obj/Release/net7.0/Actividad 2 Variables, tipos y operadores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 2 Variables, tipos y operadores/Actividad 2 Variables, tipos y operadores/obj/Release/net7.0/Actividad 2 Variables, tipos y operadores.AssemblyInfoInputs.cache
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 2 Variables, tipos y operadores/Actividad 2 Variables, tipos y operadores/obj/Release/net7.0/Actividad 2 Variables, tipos y operadores.AssemblyInfo.cs
+/Users/lookit/Documents/Programación/C#/Actividades/Actividad 2 Variables, tipos y operadores/Actividad 2 Variables, tipos y operadores/obj/Release/net7.0/Actividad 2 Variables, tipos y operadores.csproj.CoreCompileInputs.cache

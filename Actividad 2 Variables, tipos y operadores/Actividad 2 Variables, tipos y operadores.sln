@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 2 Variables, tipos y operadores", "Actividad 2 Variables, tipos y operadores\Actividad 2 Variables, tipos y operadores.csproj", "{D26B5D8F-7D65-4A7D-BD88-B246E52F3BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26B5D8F-7D65-4A7D-BD88-B246E52F3BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26B5D8F-7D65-4A7D-BD88-B246E52F3BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26B5D8F-7D65-4A7D-BD88-B246E52F3BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26B5D8F-7D65-4A7D-BD88-B246E52F3BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60D84B7-06A4-4C11-A9DF-2FF929D29073}
+	EndGlobalSection
+EndGlobal
